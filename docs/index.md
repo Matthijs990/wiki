@@ -1,16 +1,17 @@
-# index
+<html>
+<h1 id="index">index</h1>
 
-welcome at the os_sys docs.
+<p>welcome at the os_sys docs.</p>
 
-## index:
+<h2 id="index-1">index:</h2>
 
-[first](#first)  
-[getting started with os_sys](#getting started)  
-[progress bars](#progress bars)  
-[discription](#discription)  
-[help(os_sys)](#help)
+<p><a href="#first">first</a> <br />
+<a href="#getting started">getting started with os<em>sys</a> <br />
+<a href="#progress bars">progress bars</a> <br />
+<a href="#discription">discription</a> <br />
+<a href="#help">help(os</em>sys)</a></p>
 
-* * *
+<hr />
 
 <div id="first">
 
@@ -23,7 +24,7 @@ first there are somethings you need to know:
 
 </div>
 
-* * *
+<hr />
 
 <div id="getting started">
 
@@ -9113,3 +9114,4 @@ Use help(str) for help on the str class.
 No Python documentation found for 'web_open'.  
 Use help() to get the interactive help utility.  
 Use help(str) for help on the str class.</idlelib.run.pseudooutputfile></value.></value.></value.></idlelib.run.pseudooutputfile></idlelib.run.pseudoinputfile></idlelib.run.pseudooutputfile></function></class></class></class></class></built-in></lookup></http:></value.></value.></value.></value.></value.></value.></value.>******</div>
+<html>
